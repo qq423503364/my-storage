@@ -1,2 +1,4 @@
 # my-storage
-using for practice git
+So this is my second using git hub
+seems good 
+think it is not so hard to use git hub
